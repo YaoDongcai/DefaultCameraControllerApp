@@ -1,0 +1,10 @@
+D:\软件开发包\xydPro\CameraControllerApp\CameraControllerApp\CameraControllerApp\bin\Debug\CameraControllerApp.exe.config
+D:\软件开发包\xydPro\CameraControllerApp\CameraControllerApp\CameraControllerApp\bin\Debug\CameraControllerApp.exe
+D:\软件开发包\xydPro\CameraControllerApp\CameraControllerApp\CameraControllerApp\bin\Debug\CameraControllerApp.pdb
+D:\软件开发包\xydPro\CameraControllerApp\CameraControllerApp\CameraControllerApp\obj\Debug\CameraControllerApp.csprojAssemblyReference.cache
+D:\软件开发包\xydPro\CameraControllerApp\CameraControllerApp\CameraControllerApp\obj\Debug\CameraControllerApp.Properties.Resources.resources
+D:\软件开发包\xydPro\CameraControllerApp\CameraControllerApp\CameraControllerApp\obj\Debug\CameraControllerApp.csproj.GenerateResource.cache
+D:\软件开发包\xydPro\CameraControllerApp\CameraControllerApp\CameraControllerApp\obj\Debug\CameraControllerApp.csproj.CoreCompileInputs.cache
+D:\软件开发包\xydPro\CameraControllerApp\CameraControllerApp\CameraControllerApp\obj\Debug\CameraControllerApp.exe
+D:\软件开发包\xydPro\CameraControllerApp\CameraControllerApp\CameraControllerApp\obj\Debug\CameraControllerApp.pdb
+D:\软件开发包\xydPro\CameraControllerApp\CameraControllerApp\CameraControllerApp\obj\Debug\CameraControllerApp.Form1.resources
